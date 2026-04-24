@@ -1,6 +1,6 @@
 # Claude Code Agent Harness
 
-Starter project for the **[Build Your First Agent Harness with Claude Code](https://lablab.ai/t/claude-code-agent-harness)** tutorial on Lablab.
+Starter project for the **[Using Agent Harnesses for AI Hackathons with Claude Code](https://lablab.ai/ai-tutorials/claude-code-agent-harness-ai-hackathons)** tutorial on Lablab.
 
 A codebase health agent that autonomously finds and fixes bugs in a Python project using the [Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview). Point it at a buggy repo, and it runs tests, reads failures, edits source files, and verifies fixes — no human intervention required.
 
@@ -59,6 +59,6 @@ The agent is controlled by three things:
 
 ## Learn more
 
-Full tutorial: [lablab.ai/t/claude-code-agent-harness](https://lablab.ai/t/claude-code-agent-harness)
+Full tutorial: [lablab.ai/ai-tutorials/claude-code-agent-harness-ai-hackathons](https://lablab.ai/ai-tutorials/claude-code-agent-harness-ai-hackathons)
 
 Claude Agent SDK docs: [code.claude.com/docs/en/agent-sdk/overview](https://code.claude.com/docs/en/agent-sdk/overview)
